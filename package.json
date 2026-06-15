@@ -52,7 +52,7 @@
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.54.0",
     "vite": "^6.0.0",
-    "vite-plugin-dts": "^4.0.0",
+    "vite-plugin-dts": "^5.0.2",
     "vitest": "^4.0.18"
   },
   "author": "Ctrotech (https://github.com/ctrotech-tutor)",
